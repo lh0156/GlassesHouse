@@ -19,137 +19,55 @@
 
 
 
-# 📖 Introduction
-### 1. 프로젝트 개요
-* 프로젝트의 **개요**를 작성합니다.
-* 주요 **내용**을 간결하게 설명합니다.
-<br />
+## 📜요약
 
-### 2. 개발 환경
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"><br/>
-<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">  <img src="https://img.shields.io/badge/eclipse ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">  <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">  
-* 프로젝트에 사용한 **개발 언어**를 기입합니다.
-* **개발 도구**를 기입합니다.
-* **형상 관리** 도구를 기입합니다.
-<br />
+---
 
-### 3. 프로젝트 내용
-![projectTemp](https://user-images.githubusercontent.com/87955005/152466049-f9c573aa-ebed-4978-a027-0cc82364b1d6.png)
-#### 3-1. 내용1
-* 프로젝트의 **내용**을 기입합니다. 
-* 주요 **특징**들을 작성합니다.
+- 2021.10.29~2021.11.04 7일간 6명이 진행한 프로젝트입니다.
+- 팀원: 엄윤섭(팀장), 서민종, 이찬우, 이채윤, 조진욱, 한수연
+- 파일 입출력 기반의 데이터 자바 콘솔 프로젝트입니다.
+- 처음으로 시행한 프로젝트로써 뷰를 통일하는데 많은 공을 들였습니다.
+## 🖥구현 화면
 
-#### 3-2. 내용2
-* 프로젝트의 **내용**을 기입합니다. 
-* 주요 **특징**들을 작성합니다.
+---
 
-<br />
-<br />
-<br />
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2f6fc6af-2640-4e9a-a629-f61a86a3c474/Untitled.png)
 
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d07231dd-eb43-417f-aebf-6028a98aa4a8/Untitled.png)
 
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4d5d37c9-bf7c-4c97-a5c8-f4883ecfa310/Untitled.png)
 
-# 🙋 My Role
-### 1. 담당 업무
-![projectTemp](https://user-images.githubusercontent.com/87955005/152466049-f9c573aa-ebed-4978-a027-0cc82364b1d6.png)
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed5eee22-682b-43a8-ba9a-f4e3f95838d2/Untitled.png)
 
-#### 1-1. 주요 특징
-* 구현 **결과**에 대한 **설명**을 기입합니다.
-* 이미지 혹은 영상으로 **확인** 가능한 부분을 설명합니다.
+## **🗞설명**
 
-#### 1-2. 주요 특징
-* 구현 **결과**에 대한 **설명**을 기입합니다.
-* 이미지 혹은 영상으로 **확인** 가능한 부분을 설명합니다.
+---
 
-<br />
-<br />
+- 사용자가 원하는 조건에 맞게 안경테 정보를 제공하여 안경을 판매하는 프로그램입니다.
+- 안경의 상세한 규격까지 안내함으로써 고객에게 디테일한 정보를 제공하였습니다.
+- 프로젝트의 통일감을 위해 인터페이스에 통일감을 주는데 공을 들였습니다.
 
-### 2. 담당 업무
-![projectTemp](https://user-images.githubusercontent.com/87955005/152466049-f9c573aa-ebed-4978-a027-0cc82364b1d6.png)
+## **🙋‍♂️역할**
 
-#### 2-1. 주요 특징
-* 구현 **결과**에 대한 **설명**을 기입합니다.
-* 이미지 혹은 영상으로 **확인** 가능한 부분을 설명합니다.
+---
 
-#### 2-2. 주요 특징
-* 구현 **결과**에 대한 **설명**을 기입합니다.
-* 이미지 혹은 영상으로 **확인** 가능한 부분을 설명합니다.
+- 구현: 물품 상세 페이지, 비회원 주문하기, 결제하기 서비스 기능
+- 팀장으로써 최종 자료 검토 및 발표
 
-<br />
-<br />
-<br />
+## **⚙️사용 기술**
 
+---
 
+- 파일 입출력: Scanner, FileWriter
+- 컬렉션: ArrayList<T>, HashMap<key, value>, Hashset<T>
+- 오버로딩: 생성자 오버로딩, 객체에 속한 ArrayList 함수의 재구현
 
-# 🔎 Detail
-### 1. 주요 코드
-* 작성한 **코드**를 설명합니다.
-    ```java
-    System.out.println("설명에 부합하는 코드만 기입합니다.");
-    ```
-* 작성한 **코드**를 설명합니다.
-    ```sql
-    begin
-        dbms_output.put_line('설명에 부합하는 코드만 기입합니다.');
-    end;
-    ```
-* 작성한 **코드**를 설명합니다.
-    ```javascript
-    console.log('설명에 부합하는 코드만 기입합니다.');
-    ```
-    
-<br />
-<br />
+## **💡느낀점**
 
-### 2. 주요 코드
-* 작성한 **코드**를 설명합니다.
-    ```java
-    System.out.println("설명에 부합하는 코드만 기입합니다.");
-    ```
-* 작성한 **코드**를 설명합니다.
-    ```sql
-    begin
-        dbms_output.put_line('설명에 부합하는 코드만 기입합니다.');
-    end;
-    ```
-* 작성한 **코드**를 설명합니다.
-    ```javascript
-    console.log('설명에 부합하는 코드만 기입합니다.');
-    ```
-    
-<br />
-<br />
-<br />
+---
 
-# 💡 Review
-### 1. 후기
-* 프로젝트 완료 후 **후기**를 작성합니다.
-* **협업**을 통해 얻은 **고찰**을 위주로 기입합니다.
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/368a91d4-fb66-494a-b4bc-648ae4d32b3c/Untitled.png)
 
-<br />
-<br />
-
-### 2. 코드 리뷰
-* 보완점이 있는 코드를 **리뷰**합니다.
-
-<br />
-<br />
-<br />
-
-# ✔ To Do List
-- [ ] **미완료 기능**
-  - [ ] 미완료 내용
-  - [ ] 미완료 내용
-  - [X] *~~완료 내용~~*
-<br />
-
-- [X] __*~~완료 기능~~*__
-  - [X] *~~완료 내용~~*
-  - [X] *~~완료 내용~~*
-  - [X] *~~완료 내용~~*
-
-<br />
-<br />
-<br />
+- 프로젝트 종료 당일에 썻던 일기입니다. 더 잘하고 싶다는 생각, 조직을 이끄려면 실력이 있어야하구나 라는 깨달음을 얻게해준 프로젝트입니다.
 
 
