@@ -1,23 +1,6 @@
 ![안경집_001_메인화면](https://user-images.githubusercontent.com/62834176/152759948-38b657bc-d447-49ea-98d6-ab7ef251326b.jpg)
 
-
->  진행한 **프로젝트**를 **한 줄**로 소개합니다. <br />
->  **일정**과 **팀원** 등 프로젝트에 대한 부가 설명을 작성합니다. <br />
-
-<br />
-
-# 📌 Table Of Contents
-* [📖 Introduction](#-introduction)
-* [🙋 My Role](#-my-role)
-* [🔎 Detail](#-detail)
-* [💡 Review](#-review)
-* [✔ To Do List](#-to-do-list)
-
-<br />
-<br />
-<br />
-
-
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cb7a01b9-c82a-4662-90c1-b76b5eb40aea/Untitled.jpeg)
 
 ## 📜요약
 
@@ -27,6 +10,7 @@
 - 팀원: 엄윤섭(팀장), 서민종, 이찬우, 이채윤, 조진욱, 한수연
 - 파일 입출력 기반의 데이터 자바 콘솔 프로젝트입니다.
 - 처음으로 시행한 프로젝트로써 뷰를 통일하는데 많은 공을 들였습니다.
+
 ## 🖥구현 화면
 
 ---
@@ -69,5 +53,3 @@
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/368a91d4-fb66-494a-b4bc-648ae4d32b3c/Untitled.png)
 
 - 프로젝트 종료 당일에 썻던 일기입니다. 더 잘하고 싶다는 생각, 조직을 이끄려면 실력이 있어야하구나 라는 깨달음을 얻게해준 프로젝트입니다.
-
-
