@@ -1,4 +1,5 @@
-![projectTemp](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cb7a01b9-c82a-4662-90c1-b76b5eb40aea/Untitled.jpeg)
+![projectTemp]![안경집_001_메인화면](https://user-images.githubusercontent.com/62834176/152759948-38b657bc-d447-49ea-98d6-ab7ef251326b.jpg)
+
 
 >  진행한 **프로젝트**를 **한 줄**로 소개합니다. <br />
 >  **일정**과 **팀원** 등 프로젝트에 대한 부가 설명을 작성합니다. <br />
