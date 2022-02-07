@@ -1,4 +1,4 @@
-![projectTemp]![안경집_001_메인화면](https://user-images.githubusercontent.com/62834176/152759948-38b657bc-d447-49ea-98d6-ab7ef251326b.jpg)
+![안경집_001_메인화면](https://user-images.githubusercontent.com/62834176/152759948-38b657bc-d447-49ea-98d6-ab7ef251326b.jpg)
 
 
 >  진행한 **프로젝트**를 **한 줄**로 소개합니다. <br />
